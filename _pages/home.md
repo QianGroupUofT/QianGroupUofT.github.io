@@ -20,7 +20,8 @@ Our group conducts experimental research in the field of ultrafast photonics, me
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0" role="listbox" style=" width:100%; height: 500px !important;>
+    <div class="carousel-inner" markdown="0" role="listbox" style="max-width:900px; max-height:600px !important;">
+>
                                                                    
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/entangledphotonsource.jpg" alt="Slide 1" />
