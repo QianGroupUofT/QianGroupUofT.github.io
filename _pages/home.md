@@ -54,4 +54,4 @@ Our group conducts experimental research in the field of ultrafast photonics, me
 
 
 
-To learn more about our current work, see [Research](research). We are always looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).
+To learn more about our current work, see [Research](research). We are always looking for passionate new PhD students, Postdocs, and Master students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies).
