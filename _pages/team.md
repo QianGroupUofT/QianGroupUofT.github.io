@@ -266,7 +266,8 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 
 ## Alumni
 
-{% assign number_printed = 0 %}
+Will be added soon.
+<!-- {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -282,7 +283,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
   <ul style="overflow: hidden">
 
   </ul>
-</div>
+</div> -->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -296,32 +297,6 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
 
 
 ## Administrative Support
