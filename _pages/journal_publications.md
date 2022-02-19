@@ -3,7 +3,7 @@ title: "Qian Group - Journal Publications"
 layout: gridlay
 excerpt: "Qian Group-- Journal Publications."
 sitemap: false
-permalink: /publications/journal_publications
+permalink: /journal_publications.html
 ---
 
 
