@@ -9,9 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?hl=en&user=sLHyO1wAAAAJ&view_op=list_works&sortby=pubdate).
+### Journal publications(journal_publications)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist2021 %}
