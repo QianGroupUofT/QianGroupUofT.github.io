@@ -1,9 +1,9 @@
 ---
-title: "Qian Group - Journal Publications"
-layout: gridlay
-excerpt: "Qian Group-- Journal Publications."
+title: "Journal Publications"
+layout: textlay
+excerpt: "Qian Group at the University of Toronto."
 sitemap: false
-permalink: /journal_publications.html
+permalink: /journalpublications.html
 ---
 
 
