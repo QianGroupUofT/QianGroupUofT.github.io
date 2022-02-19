@@ -210,8 +210,8 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 ## Alumni
 
 Will be added soon.
-{% assign number_printed = 0 %}
-<!-- {% for member in site.data.alumni_members %}
+<!-- {% assign number_printed = 0 %}
+ {% for member in site.data.alumni_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
