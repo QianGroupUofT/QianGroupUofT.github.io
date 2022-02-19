@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-### Journal publications(journal_publications)
+Journal publications(journal_publications)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist2021 %}
