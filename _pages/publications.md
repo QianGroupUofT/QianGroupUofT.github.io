@@ -170,13 +170,6 @@ permalink: /publications/
 {% endfor %}
 
 
-### 2003
-{% for publi in site.data.publist2003 %}
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endfor %}
-
-
 ### 2002
 {% for publi in site.data.publist2002 %}
   {{ publi.title }} <br />
