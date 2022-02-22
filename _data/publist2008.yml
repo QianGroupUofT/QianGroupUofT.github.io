@@ -1,7 +1,35 @@
 #2008
-- title: "Resonator-free sub-MHz spectral dip in a twisted gain medium"
+- title: "**O[J.27]** A Multi-Fiber-Channel Wavelength Converter based on a Passive Ultrafast Switch"
+  authors: D. Wu, L. Qian, W.S. Mohammed, and P.W.E. Smith
+  link:
+    url: https://digital-library.theiet.org/content/journals/10.1049/el_20081594
+    display: Electronics Letters, Vol. 44, pp.1152-1154
+  highlight: 2
+ 
+ - title: "**O[J.26]** Room temperature luminescence from erbium in silica by evaporation and thermal oxidation"
   authors: Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian
   link:
-    url: https://arxiv.org/abs/2104.05101
-    display:  arXiv preprint arXiv:2104.05101
+    url: https://iopscience.iop.org/article/10.1143/JJAP.47.7211
+    display: Japanese Journal of Applied Physics, vol. 47, pp.7211-7215
+  highlight: 2
+ 
+ - title: "**SM[J.25]** Using Frequency-Shifted Interferometry for Multiplexing a Fiber Bragg Grating Array"
+  authors: Fei Ye, Li Qian, Yu Liu, and Bing Qi
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/4589018
+    display: IEEE Photonics Technology Letters, Vol. 20, pp. 1488-1490
+  highlight: 2
+ 
+ - title: "**SM[J.24]** Dynamic Arbitrary Waveform Shaping in a Continuous Fiber"
+  authors: Yu Yeung (Kenny) Ho 
+  link:
+    url: https://opg.optica.org/ol/abstract.cfm?uri=ol-33-11-1279
+    display: Optics Letters, Vol. 33, Issue 11, pp. 1279-1281
+  highlight: 2
+ 
+ - title: "**SM[J.23]** All-Fiber Laser Beam Shaping Using a Long-period Grating"
+  authors: X. Gu, W.S. Mohammed, L. Qian, and P.W.E. Smith
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/4538117
+    display: IEEE Photonics Technology Letters, vol.20, pp. 1130-1132
   highlight: 2
