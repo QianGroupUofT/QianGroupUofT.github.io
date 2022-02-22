@@ -9,8 +9,6 @@ permalink: /publications/
 
 # Publications
 
-Journal publications(journalpublications)
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist2021 %}
 
