@@ -1,7 +1,21 @@
 #2004
-- title: "Resonator-free sub-MHz spectral dip in a twisted gain medium"
+- title: "**ED[J.11]** A Low-Cost Technique for Broadband Gain and Noise Figure Characterization of Optical Amplifiers using a Broadband Source and a Filter"
+  authors: S. Gupta and L. Qian
+  link:
+    url: 
+    display: Optical Fiber Technology
+  highlight: 2
+  
+ - title: "**ED[J.10]**	Measuring Gain and Noise Figure of Erbium-Doped Fiber Amplifiers Using a Broad-Band Source and a Transmission Filter"
   authors: Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian
   link:
+    url: 
+    display: IEEE Photonics Technology Letters, 16(9):2030–2032
+  highlight: 2
+  
+ - title: "**ED[J.9]** Modeling high-concentration L-band EDFA at high optical powers based on inversion function"
+  authors: V. Chernyak and L. Qian, 
+  link:
     url: https://arxiv.org/abs/2104.05101
-    display:  arXiv preprint arXiv:2104.05101
+    display:  IEEE Journal on Selected Topics in Quantum Electronics, 8(3): 569–574
   highlight: 2
