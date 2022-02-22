@@ -183,6 +183,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
 
+
 ### 2001
 {% for publi in site.data.publist2001 %}
   {{ publi.title }} <br />
@@ -190,15 +191,15 @@ permalink: /publications/
 {% endfor %}
 
 
-### 1999
-{% for publi in site.data.publist1999 %}
+### 2000
+{% for publi in site.data.publist2000 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
 
 
-### 1998
-{% for publi in site.data.publist1998 %}
+### 1999
+{% for publi in site.data.publist1999 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
