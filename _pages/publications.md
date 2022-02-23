@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-Categories:
+### Categories:
 
 QE - Quantum Entanglement
 
