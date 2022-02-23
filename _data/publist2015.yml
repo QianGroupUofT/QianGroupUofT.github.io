@@ -1,7 +1,28 @@
 #2015
-- title: "Resonator-free sub-MHz spectral dip in a twisted gain medium"
-  authors: Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian
+- title: "**SM[J.66]** Large-capacity multiplexing of near-identical weak fiber Bragg gratings using frequency-shifted interferometry"
+  authors: Y. Ou, C. Zhou, L. Qian, D. Fan, C. Cheng, H. Guo
   link:
-    url: https://arxiv.org/abs/2104.05101
-    display:  arXiv preprint arXiv:2104.05101
+    url: https://opg.optica.org/oe/viewmedia.cfm?uri=oe-23-24-31484&html=true
+    display: Optics Express, 23(24), pp.31484-95 
+  highlight: 2
+
+- title: "**QC[J.65]** Discrete-variable measurement-device-independent quantum key distribution suitable for metropolitan networks"
+  authors: F. Xu, M. Curty, B. Qi, L. Qian, H.-K. Lo
+  link:
+    url: https://www.nature.com/articles/nphoton.2015.206
+    display: Nat. Photonics, 9, 772 
+  highlight: 2
+
+- title: "**QC[J.64]** Experimental quantum key distribution with source flaws"
+  authors: F. Xu, K. Wei, S. Sajeed, S. Kaiser, S. Sun, Z. Tang, L. Qian, V. Makarov and H.-K. Lo
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.032305
+    display: Phys. Rev. A., 92, 032305
+  highlight: 2
+  
+- title: "**NL[J.63]** Tunable Four-Wave Mixing in AlGaAs Nanowires"
+  authors: K. Dolgaleva, P. Sarrafi, P. Kultavewuti, K.M. Awan, N. Feher, J.S. Aitchison, L. Qian, M. Volatier, R. Arès, and V. Aimez
+  link:
+    url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-17-22477&id=324174
+    display: Optics Express, 23, pp. 22477-22493
   highlight: 2
