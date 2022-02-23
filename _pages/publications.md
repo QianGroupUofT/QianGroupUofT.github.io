@@ -23,6 +23,8 @@ O  - Novel Optical Materials
 
 ED – Extended-L-band EDFA
 
+J denotes journal publications, and C denotes conference publications
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist2021 %}
 
