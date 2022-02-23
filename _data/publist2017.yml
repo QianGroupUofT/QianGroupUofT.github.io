@@ -1,7 +1,49 @@
 #2017
-- title: "Resonator-free sub-MHz spectral dip in a twisted gain medium"
-  authors: Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian
+- title: "**QE[J.77]** Resonator-free sub-MHz spectral dip in a twisted gain medium"
+  authors: P. Kultavewuti, L. Qian, J.S. Aitchison
   link:
     url: https://arxiv.org/abs/2104.05101
-    display:  arXiv preprint arXiv:2104.05101
+    display: Optics Express, 25(15), pp18474-18484
+  highlight: 2
+
+- title: "**QE[J.76]* Resonator-free sub-MHz spectral dip in a twisted gain medium"
+  authors: Changjia Chen, Eric Y. Zhu, Arash Riazi, Alexey V. Gladyshev, Costantino Corbari, Morten Ibsen, Peter G. Kazansky, and Li Qian
+  link:
+    url: https://arxiv.org/abs/2104.05101
+    display: Optics Express 25(19), pp. 22667-22678
+  highlight: 2
+
+- title: "**QE[J.75]** Resonator-free sub-MHz spectral dip in a twisted gain medium"
+  authors: Pisek Kultavewuti, Eric Y. Zhu, Xingxing Xing, Li Qian, Vincenzo Pusino, Marc Sorel, and J. Stewart Aitchison
+  link:
+    url: https://arxiv.org/abs/2104.05101
+    display: Scientific Report, 7, 5785
+  highlight: 2
+  
+- title: "**NL[J.74]** Resonator-free sub-MHz spectral dip in a twisted gain medium"
+  authors: J. Ng, P. R. Herman, L. Qian
+  link:
+    url: https://arxiv.org/abs/2104.05101
+    display: Opt. Lett. 42(2), pp. 195-198. This article appears as Optics Letters Editors’ Pick. 
+  highlight: 2
+  
+- title: "**SM[J.73]** Resonator-free sub-MHz spectral dip in a twisted gain medium"
+  authors: H. Guo, L. Qian, C. Zhou, Z. Zheng, Y. Yuan, R. Xu, D. Jiang
+  link:
+    url: https://arxiv.org/abs/2104.05101
+    display: Journal of Lightwave Technology, 35(10), pp. 2032-2036 
+  highlight: 2
+  
+- title: "**SM[J.72]** Resonator-free sub-MHz spectral dip in a twisted gain medium"
+  authors: Y. Ou, C. Zhou, L. Qian, D. Fan, C. Cheng, H. Guo, Z. Xiong
+  link:
+    url: https://arxiv.org/abs/2104.05101
+    display: Photon. Tech. Lett., 29(6), pp.535-538
+  highlight: 2
+  
+- title: "**SM[J.71]** Resonator-free sub-MHz spectral dip in a twisted gain medium"
+  authors: C. Zhou, T. Tian, L. Qian, D. Fan, W. Liang and Y. Ou
+  link:
+    url: https://arxiv.org/abs/2104.05101
+    display: Journal of Lightwave Technology, Invited Paper, 35(16), 3483-3488
   highlight: 2
