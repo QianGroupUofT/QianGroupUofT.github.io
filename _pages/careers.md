@@ -1,9 +1,9 @@
 ---
-title: "Qian Group - Vacancies"
+title: "Qian Group - Careers"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Careers"
 sitemap: false
-permalink: /vacancies
+permalink: /careers
 ---
 
 # Open positions
