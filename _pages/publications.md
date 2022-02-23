@@ -12,15 +12,10 @@ permalink: /publications/
 Categories:
 
 QE - Quantum Entanglement
-
 QC - Quantum Communication
-
 SM - Sensing and Metrology
-
 NL - Nonlinear Optics
-
 O  - Novel Optical Materials
-
 ED – Extended-L-band EDFA
 
 {% assign number_printed = 0 %}
