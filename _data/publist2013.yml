@@ -1,7 +1,28 @@
 #2013
-- title: "Resonator-free sub-MHz spectral dip in a twisted gain medium"
-  authors: Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian
+- title: "**QE[J.53]** Continuous-wave quasi-phase-matched waveguide correlated photon pair source on a III–V chip"
+  authors: P. Sarrafi, E.Y. Zhu, K. Dolgaleva, B.M. Holmes, D.C. Hutchings, J.S. Aitchison, and L. Qian
   link:
-    url: https://arxiv.org/abs/2104.05101
-    display:  arXiv preprint arXiv:2104.05101
+    url: https://aip.scitation.org/doi/10.1063/1.4851095
+    display: Applied Physics Letters, 103, 251115
+  highlight: 2
+  
+- title: "**QE[J.53]** Poled-fiber source of broadband polarization-entangled photon pairs"
+  authors: E.Y. Zhu, Z. Tang, L. Qian, L.G. Helt, M. Liscidini, J.E. Sipe, C. Corbari, A.Canagasabey, M. Ibsen, and P.G. Kazansky
+  link:
+    url: https://opg.optica.org/ol/abstract.cfm?uri=ol-38-21-4397
+    display: Optics Letters, 38, pp. 4397-4400
+  highlight: 2
+  
+- title: "**SM[J.51]** Continuous-wave cavity ring-down evanescent-field sensing with a broadband source based on frequency-shifted interferometry"
+  authors: F. Ye, C. Zhou, B. Qi and L. Qian
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0925400513004917
+    display: Sensor Actuat B-Chem, 184, pp. 150-155
+  highlight: 2
+  
+- title: "**SM[J.50]** Reflectometry based on a Frequency-shifted Interferometer using Sideband Interference"
+  authors: B. Qi, F. Ye, L. Qian and H.K. Lo
+  link:
+    url: https://opg.optica.org/ol/abstract.cfm?uri=ol-38-7-1083
+    display: Optics Letters, 38, pp.1083-1085
   highlight: 2
