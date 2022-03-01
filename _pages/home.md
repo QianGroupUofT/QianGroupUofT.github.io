@@ -5,7 +5,7 @@ excerpt: "Qian Group at the University of Toronto"
 sitemap: false
 permalink: /
 ---
-Our group conducts experimental research in the field of ultrafast photonics, metrology, quantum communication, and optical sensing. 
+Our group conducts experimental research in the field of quantum photonics, metrology, quantum communication, and metrology. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
