@@ -29,7 +29,7 @@ Our group conducts experimental research in the field of quantum photonics, metr
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TFQKD.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hyperentangled_source.pdf" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hyperentangled_source.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiQian.jpeg" alt="Slide 4" />
