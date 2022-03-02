@@ -209,7 +209,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 
 ## Alumni
 
-<-- {% assign number_printed = 0 %}
+{% assign number_printed = 0 %}
  {% for member in site.data.alumni_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -225,7 +225,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
   <ul style="overflow: hidden">
 
   </ul>
-</div> -->
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -238,7 +238,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %} -->
+{% endif %} 
 
 
 ## Administrative Support
