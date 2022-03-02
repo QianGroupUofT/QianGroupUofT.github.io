@@ -31,14 +31,17 @@ Our group conducts experimental research in the field of quantum photonics, metr
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hyperentangled_source.png" alt="Slide 3" />
         </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.jpg" alt="Slide 4" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic3.png" alt="Slide 5" />
+        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiQian.jpeg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpeg" alt="Slide 6" />
         </div>
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpg" alt="Slide 5" />
-        </div>
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.png" alt="Slide 6" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiQian.jpeg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
