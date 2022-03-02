@@ -55,4 +55,7 @@
   #email: calvinhy.xu@mail.utoronto.ca
   #number_educ: 1
   #education1: B.A.Sc., Engineering Physics, University of British Columbia
-  
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://qiangroupuoft.github.io/careers">careers</a> for more info
