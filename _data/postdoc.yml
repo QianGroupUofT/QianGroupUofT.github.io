@@ -1,11 +1,8 @@
-- name: Dr. Xiaoqing (Doris) Zhong
-  photo: xiaoqing.jpg
-  info: Ph.D. in Physics from University of Toronto
-  #email: xiaoqing.zhong@mail.utoronto.ca
-  #number_educ: 1
-  #education1: B.Sc., Physics, Nanjing University, China
+- name: Dan Xu
+  photo: dan.jpeg
+  info: Ph.D. from Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences
 
-- name: Dr. Changjia Chen
+- name: Changjia Chen
   photo: Changjia.jpg
   info: Ph.D. in Electrical and Computer Engineering from University of Toronto
   #email: changjia.chen@mail.utoronto.ca
