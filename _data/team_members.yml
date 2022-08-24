@@ -35,24 +35,17 @@
   #number_educ: 1
   #education1: B.A.Sc., Engineering Physics, University of British Columbia
   
-- name: Yueqi Wang
-  photo: Yueqi.png
-  info: Ph.D. candidate, ECE
-  #email: calvinhy.xu@mail.utoronto.ca
-  #number_educ: 1
-  #education1: B.A.Sc., Engineering Physics, University of British Columbia
-
 - name: Alexander Greenwood
   photo: alex.jpg
   info: M.A.Sc. candidate, ECE
-  #email: calvinhy.xu@mail.utoronto.ca
+  #email: alexander.greenwood@mail.utoronto.ca
   #number_educ: 1
-  #education1: B.A.Sc., Engineering Physics, University of British Columbia
+  #education1: B.A.Sc., Electrical and Computer Engineering, University of Toronto
   
 - name: Andi Shahaj
   photo: Andi.jpeg
   info: M.A.Sc. candidate, ECE
-  #email: calvinhy.xu@mail.utoronto.ca
+  #email: andi.shahaj@mail.utoronto.ca
   #number_educ: 1
   #education1: B.A.Sc., Engineering Physics, University of British Columbia
 
