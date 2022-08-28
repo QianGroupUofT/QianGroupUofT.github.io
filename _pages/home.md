@@ -25,10 +25,10 @@ Our group conducts experimental research in the field of quantum photonics, metr
     <div class="carousel-inner" markdown="0">
                                                                    
 
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TFQKD.png" alt="Slide 0" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/entangledphotonsource.jpg" alt="Slide 1" />
         </div>        
         <div class="item">
