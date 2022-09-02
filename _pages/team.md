@@ -27,6 +27,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.quote }}   
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
