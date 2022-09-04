@@ -56,7 +56,7 @@ We conduct experimental research in quantum photonics, quantum communication, no
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic3.jpeg" alt="Slide 8" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic1.jpeg" alt="Slide 9" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
