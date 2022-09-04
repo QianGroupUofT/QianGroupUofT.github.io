@@ -50,10 +50,10 @@ We conduct experimental research in quantum photonics, quantum communication, no
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LabLi.jpeg" alt="Slide 6" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.jpeg" alt="Slide 7" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic3.png" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic3.jpeg" alt="Slide 8" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpg" alt="Slide 9" />
