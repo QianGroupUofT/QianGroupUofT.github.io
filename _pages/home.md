@@ -22,6 +22,7 @@ We conduct experimental research in quantum photonics, quantum communication, no
         <li data-target="#carousel" data-slide-to="9"></li>
         <li data-target="#carousel" data-slide-to="10"></li>
         <li data-target="#carousel" data-slide-to="11"></li>
+        <li data-target="#carousel" data-slide-to="12"></li>
     </ol>
 
     <!-- Items -->
@@ -53,16 +54,19 @@ We conduct experimental research in quantum photonics, quantum communication, no
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AlexSoroushLab.jpeg" alt="Slide 7" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic4.jpeg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GlowingGreen.jpeg" alt="Slide 8" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.jpeg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic4.jpeg" alt="Slide 9" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.jpeg" alt="Slide 10" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic3.jpeg" alt="Slide 10" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic3.jpeg" alt="Slide 11" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic1.jpeg" alt="Slide 11" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic1.jpeg" alt="Slide 12" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
