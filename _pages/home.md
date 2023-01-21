@@ -5,7 +5,7 @@ excerpt: "Qian Group at the University of Toronto"
 sitemap: false
 permalink: /
 ---
-We conduct experimental research in quantum photonics, quantum communication, nonlinear optics, sensing and metrology. We also enjoy skiing, hiking, and an occasional beer!
+We conduct experimental research in quantum photonics, quantum communication, nonlinear optics, sensing and metrology. We also enjoy skiing, hiking, coffee, tea, and cakes!
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
