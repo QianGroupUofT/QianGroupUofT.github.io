@@ -50,6 +50,13 @@
   #number_educ: 1
   #education1: B.A.Sc., Engineering Science (Physics), University of Toronto
   
+- name: Jackson Russett
+  photo: download.png
+  info: M.A.Sc. candidate, ECE
+  #email: jackson.russett@mail.utoronto.ca
+  #number_educ: 1
+  #education1: B.A.Sc., Engineering Science (Biomedical), University of Toronto
+
 - name: "This could be you!"
   photo: download.png
   info: Seeking someone passionate about pursuing research in photonics. See <a href="https://qiangroupuoft.github.io/careers">careers</a> for more info
