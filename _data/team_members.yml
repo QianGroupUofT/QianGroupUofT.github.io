@@ -28,16 +28,9 @@
   #education1: M.Sc., Physics, University of Toronto
   #education2: B.Sc., Physics, McGill
   
-- name: Calvin Xu
-  photo: Calvin2.jpg
-  info: M.A.S.c. candidate, ECE
-  #email: calvinhy.xu@mail.utoronto.ca
-  #number_educ: 1
-  #education1: B.A.Sc., Engineering Physics, University of British Columbia
-  
 - name: Alexander Greenwood
   photo: alex2.jpg
-  info: M.A.Sc. candidate, ECE
+  info: Ph.D. candidate, ECE
   quote: "'Alex lost his experimental privileges when he traded all the detectors in for two-level atoms'"
   #email: alexander.greenwood@mail.utoronto.ca
   #number_educ: 1
