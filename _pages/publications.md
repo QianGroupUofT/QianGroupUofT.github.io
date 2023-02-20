@@ -8,13 +8,17 @@ permalink: /publications/
 
 
 # Publications
-Only refereed journal publications are included here. For a full list, please see <href='https://scholar.google.ca/citations?user=sLHyO1wAAAAJ&hl=en'>GoogleScholar</a>.
+Only refereed journal publications are included here. For a full list, please see <a href='https://scholar.google.ca/citations?user=sLHyO1wAAAAJ&hl=en'>GoogleScholar</a>.
 
 ### Categories:
 QE - Quantum Entanglement
+
 QC - Quantum Communication
+
 SM - Sensing and Metrology
+
 NL - Nonlinear Optics
+
 O  - Other
 
 
