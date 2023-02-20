@@ -62,7 +62,7 @@ J denotes journal publications, and C denotes conference publications
 {% endif %}
 
 <p> &nbsp; </p>
-### 2022
+### 2022 and later
 {% for publi in site.data.publist2022 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
