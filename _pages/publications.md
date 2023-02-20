@@ -8,22 +8,16 @@ permalink: /publications/
 
 
 # Publications
+Only refereed journal publications are included here. For a full list, please see <href='https://scholar.google.ca/citations?user=sLHyO1wAAAAJ&hl=en'>GoogleScholar</a>.
 
 ### Categories:
-
 QE - Quantum Entanglement
-
 QC - Quantum Communication
-
 SM - Sensing and Metrology
-
 NL - Nonlinear Optics
+O  - Other
 
-O  - Novel Optical Materials
 
-ED – Extended-L-band EDFA
-
-J denotes journal publications, and C denotes conference publications
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist2021 %}
