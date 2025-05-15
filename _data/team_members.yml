@@ -28,6 +28,9 @@
   #number_educ: 1
   #education1: B.A.Sc., Engineering Science (Physics), University of Toronto
 
+- name: Verma	Abhay
+  photo: download.png
+
 - name: "This could be you!"
   photo: download.png
   info: Seeking someone passionate about pursuing research in photonics. See <a href="https://qiangroupuoft.github.io/careers">careers</a> for more info
