@@ -273,16 +273,27 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 </div>
 {% endif %}
 
-
-
 ## Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
+<h4>Visiting Scholars</h4>
 {% for member in site.data.alumni_visitors %}
-<h4>{{ member.name }}</h4>
-{{ member.description }}
-{{ member.info }}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Master students</h4>
+{% for member in site.data.alumni_msc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Bachelor Students</h4>
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
 {% endfor %}
 </div>
 
