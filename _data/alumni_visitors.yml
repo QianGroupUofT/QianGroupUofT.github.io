@@ -3,13 +3,13 @@
   #duration: Completed M.A.Sc. research with Qian Group from 2013 - 2015, now Senior Business Analyst at RBC (London, U.K.)
   #info: Brillouin sensing using elliptical core fibers
 
-- name: Dan Xu
-  photo: dan.jpeg
-  info: Ph.D. from Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences
+ - name: Dan Xu
+#   photo: dan.jpeg
+#   info: Ph.D. from Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences
 
 - name: Soroush Khoubyarian
-  photo: Soroush.jpeg
-  info: Summer Research Student 2022 
+  # photo: Soroush.jpeg
+  # info: Summer Research Student 2022 
   #email: @mail.utoronto.ca
   #number_educ: 2
   #education1: M.Sc., Physics, University of Toronto
