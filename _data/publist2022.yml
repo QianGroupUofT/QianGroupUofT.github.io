@@ -1,5 +1,45 @@
 #2022 - present
+- title: "**[J.116]** Long-fiber Sagnac interferometers for twin field quantum key distribution networks"
+  authors: Reem Mandil, L Qian, and Hoi-Kwong Lo
+  link:
+    url: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.034040
+    display: Physical Review Applied, 23, 034040, 2025
+  highlight: 2
 
+- title: "**[J.115]** Hidden multi-dimensional modulation side channels in quantum protocols"
+  authors: Amita Gnanapadithan, Li Qian, and Hoi-Kwong Lo
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.130802
+    display: Physical Review Letters, 134,130802, 2025
+  highlight: 2
+
+- title: "**[J.114]** Near-IR Photoluminescence at the Photon Level in Silica Fiber Patch Cable"
+  authors: Alexander C.B. Greenwood, Abhay Verma, Jackson Russett, Andi Shahaj, and Li Qian
+  link:
+    url: https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-7-2421&id=569825
+    display: Optics Letters, 50, 2421-2424, 2025
+  highlight: 2
+
+- title: "**[J.113]** Turning four-wave mixing on and off in elliptically birefringent fibers via narrow frequency detuning"
+  authors: Neel Choksi, and L Qian
+  link:
+    url: https://opg.optica.org/ol/abstract.cfm?uri=ol-49-22-6421
+    display: Optics Letters, 49, pp. 6421-6424, 2024
+  highlight: 2
+
+- title: "**[J.112]** Modeling and application of a bidirectional Mach-Zehnder electro-optic modulator with enhanced high-frequency modulation efficiency"
+  authors: Xuepei Ma, Yiwen Ou, Li Qian, Huiyong Guo, Chunfu Cheng, Ciming Zhou, Hui Lv
+  link:
+    url: https://opg.optica.org/ao/abstract.cfm?URI=ao-63-30-7964
+    display: Applied Optics, 63, pp.7964-72, 2024
+  highlight: 2
+
+- title: "**[J.111]** An Exponential Reduction in Training Data Sizes for Machine Learning Derived Entanglement Witnesses"
+  authors: Aiden R. Rosebush, Alexander C. B. Greenwood, Brian T. Kirby and Li Qian
+  link:
+    url: https://iopscience.iop.org/article/10.1088/2632-2153/ad7457
+    display: Machine Learning: Science and Technology, 5, 035068, 2024
+  highlight: 2
 
 - title: "**[J.110]** Resource-efficient real-time polarization compensation for MDI-QKD with rejected data"
   authors: Olinka Bedroya, Chenyang Li, Wenyuan Wang, Jianyong Hu, Hoi-Kwong Lo, Li Qian
