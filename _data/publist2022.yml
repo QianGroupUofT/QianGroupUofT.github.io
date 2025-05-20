@@ -1,70 +1,70 @@
 #2022 - present
 
 
-- title: "**QC[J.110]** Resource-efficient real-time polarization compensation for MDI-QKD with rejected data"
+- title: "**[J.110]** Resource-efficient real-time polarization compensation for MDI-QKD with rejected data"
   authors: Olinka Bedroya, Chenyang Li, Wenyuan Wang, Jianyong Hu, Hoi-Kwong Lo, Li Qian
   link:
     url: https://quantum-journal.org/papers/q-2024-08-08-1435/
     display: Quantum, 8, 1435 (2024)
   highlight: 2
 
-- title: "**QC[J.109]** Vector Theory of Optical Nonlinearities in Birefringent Fibers"
+- title: "**[J.109]** Vector Theory of Optical Nonlinearities in Birefringent Fibers"
   authors: Neel Choksi, and L Qian
   link:
     url: https://ieeexplore.ieee.org/document/10520911
     display: IEEE Journal of Lightwave Technology, 42(16), 5663-5673 (2024)
   highlight: 2
 
-- title: "**QC[J.108]** Entangling entanglement: Broadband biphotons with coupled degrees of freedom"
+- title: "**[J.108]** Entangling entanglement: Broadband biphotons with coupled degrees of freedom"
   authors: Arash Riazi, Dan Xu, Eric Zhu, and Li Qian
   link:
     url: https://www.nature.com/articles/s41534-024-00837-6
     display: njp Quantum Information, 10, 38 (2024)
   highlight: 2
 
-- title: "**QC[J.107]** Entanglement distillation based on polarization and frequency hyperentanglement"
+- title: "**[J.107]** Entanglement distillation based on polarization and frequency hyperentanglement"
   authors: Dan Xu, Changjia Chen, Brian T. Kirby, and Li Qian
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10302324
     display: IEEE Journal of Selected Topics in Quantum Electronics, 30, 1-8, 2024
   highlight: 2
 
-- title: "**QC[J.106]** Fully-passive quantum key distribution"
+- title: "**[J.106]** Fully-passive quantum key distribution"
   authors: Wenyuan Wang, Rong Wang, Chengqiu Hu, Victor Zapatero, Li Qian, Bing Qi, Marcos Curty, and Hoi-Kwong Lo
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.220801
     display: Physical Review Letter, 130, 220801, 2023
   highlight: 2
 
-- title: "**QC[J.105]** Machine Learning-Derived Entanglement Witnesses"
+- title: "**[J.105]** Machine Learning-Derived Entanglement Witnesses"
   authors: Alexander C.B. Greenwood, Larry T.H. Wu, Eric Y. Zhu, Brian Kirby, Li Qian
   link:
     url: https://link.aps.org/accepted/10.1103/PhysRevApplied.19.034058
     display: Physical Review Applied, 19, 034058, 2023
   highlight: 2
 
-- title: "**QC[J.104]** Measurement device-independent quantum key distribution with time-dependent source side-channels"
+- title: "**[J.104]** Measurement device-independent quantum key distribution with time-dependent source side-channels"
   authors: Eli Bourassa, Amita Gnanapandithan, Li Qian, Hoi-Kwong Lo
   link:
     url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.062618
     display: Physical Review A, 106, 062618 2022
   highlight: 2
   
-- title: "**NL[J.103]** Sub-megahertz spectral dip in a resonator-free twisted gain medium"
+- title: "**[J.103]** Sub-megahertz spectral dip in a resonator-free twisted gain medium"
   authors: Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian
   link:
     url: https://www.nature.com/articles/s41566-022-01015-w
     display: Nature Photonics, 2022 Jun 9, pp. 1-7
   highlight: 2
   
-- title: "**QE[J.102]** Telecom-band hyperentangled photon pairs from a fiber-based source"
+- title: "**[J.102]** Telecom-band hyperentangled photon pairs from a fiber-based source"
   authors: Changjia Chen, Calvin Xu, Arash Riazi, Eric Y. Zhu, Alexander C. B. Greenwood, Alexey V. Gladyshev, Peter G. Kazansky, Brian T. Kirby, and Li Qian
   link:
     url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.043702
     display: Phys. Rev. A 105, 043702, 2022
   highlight: 2
 
-- title: "**QC[J.101]** Simple Multiuser Twin-Field Quantum Key Distribution Network"
+- title: "**[J.101]** Simple Multiuser Twin-Field Quantum Key Distribution Network"
   authors: Xiaoqing Zhong, Wenyuan Wang, Reem Mandil, Hoi-Kwong Lo, and Li Qian
   link:
     url: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.014025
