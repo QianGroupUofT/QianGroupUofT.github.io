@@ -1,4 +1,32 @@
 #2022 - present
+- title: "**QC[J.108]** Entangling entanglement: Broadband biphotons with coupled degrees of freedom"
+  authors: Arash Riazi, Dan Xu, Eric Zhu, and Li Qian
+  link:
+    url: https://www.nature.com/articles/s41534-024-00837-6
+    display: njp Quantum Information, 10, 38 (2024)
+  highlight: 2
+
+- title: "**QC[J.107]** Entanglement distillation based on polarization and frequency hyperentanglement"
+  authors: Dan Xu, Changjia Chen, Brian T. Kirby, and Li Qian
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10302324
+    display: IEEE Journal of Selected Topics in Quantum Electronics, 30, 1-8, 2024
+  highlight: 2
+
+- title: "**QC[J.106]** Fully-passive quantum key distribution"
+  authors: Wenyuan Wang, Rong Wang, Chengqiu Hu, Victor Zapatero, Li Qian, Bing Qi, Marcos Curty, and Hoi-Kwong Lo
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.220801
+    display: Physical Review Letter, 130, 220801, 2023
+  highlight: 2
+
+- title: "**QC[J.105]** Machine Learning-Derived Entanglement Witnesses”
+  authors: Alexander C.B. Greenwood, Larry T.H. Wu, Eric Y. Zhu, Brian Kirby, Li Qian
+  link:
+    url: https://link.aps.org/accepted/10.1103/PhysRevApplied.19.034058
+    display: Physical Review Applied, 19, 034058, 2023
+  highlight: 2
+  
 - title: "**QC[J.104]** Measurement device-independent quantum key distribution with time-dependent source side-channels"
   authors: Eli Bourassa, Amita Gnanapandithan, Li Qian, Hoi-Kwong Lo
   link:
