@@ -298,7 +298,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Masters students</h4>
+<h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
