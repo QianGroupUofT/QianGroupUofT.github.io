@@ -46,7 +46,6 @@ Only refereed journal publications are included here. For a full list, please se
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
 ### 2022 and later
 {% for publi in site.data.publist2022 %}
   {{ publi.title }} <br />
